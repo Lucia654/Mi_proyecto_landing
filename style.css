@@ -9,7 +9,18 @@ body {
     -moz-osx-font-smoothing: grayscale;
     color: #002b39;
   }
+
+  .texto_tarjeta {
+    display: grid;
+    align-content: center;
+}
   
+
+
+
+
+
+
   .container {
     display: grid;
     margin: 0;
@@ -21,7 +32,7 @@ body {
   #header {
     display: grid;
     justify-items: center;
-    background-image: url('../IMG/Grupo_9213@2x.webp');
+    background-image: url('img/Grupo\ 9213@2x.webp');
     background-size: 100%;
     padding-bottom: 120px;
     background-repeat: no-repeat;
