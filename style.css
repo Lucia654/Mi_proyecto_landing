@@ -14,22 +14,16 @@ body {
     display: grid;
     align-content: center;
 }
-  
 
-
-
-
-
-
-  .container {
+.container {
     display: grid;
     margin: 0;
     padding: 0;
     text-align: center;
     grid-template-columns: 100%;
-  }
+}
   
-  #header {
+#header {
     display: grid;
     justify-items: center;
     background-image: url('img/Grupo\ 9213@2x.webp');
@@ -1109,19 +1103,3 @@ body {
             size: auto;
             gap: 10px;
           }
-        }
-
-      }
-    }
-  }
-}
-
-
-#procesos {
-
-  .fondo_procesos{
-    background: blue;
-  }
-
-
-}
